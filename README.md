@@ -1,0 +1,2 @@
+# JAVASCRIPT-eight-assignment
+new repo My JAVASCRIPT 8th Assingnment-CODE A SMARTER WAY TO LEARN JAVASCRIPT BOOK
